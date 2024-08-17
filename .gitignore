@@ -1,0 +1,12 @@
+build/
+node_modules/
+**/.vscode/
+*.swp
+.~
+thumbs.db
+*.out
+*.exe
+*.o
+*
+!/**/
+!*.*
